@@ -62,30 +62,12 @@
     </style>
 </head>
 
-<body>
-
-    <header>
-        <marquee bgcolor="#808080"
-<div class="toogle"></div>
-        <div id="file-name">
-            Dhak.Dhak.2023.1080p.NF.WEB-DL.Hindi.DDP5.1.H.264-Archie.mkv
-        </div>
-</marquee>
     </header>
 
     <div class="container">
         <video src="https://filetolink5-dfd3516a98e4.herokuapp.com/AgADbB132582" class="player"></video>
     </div>
 
-    <footer>
-      <center><h4></h4></center><p>
-      <center><h2><a href="https://t.me/bjtech_2426">
-  <img src="https://blogger.googleusercontent.com/img/a/AVvXsEgro3WvP6uTEMKxSzhNQtpqb6iTeWFx0alxQHEtpTFuk478-chWJ2jD0f60kZkytygaH-v-cCyU4CPv9t_H6ibRMC0H7vPsmw8hQg8OX2Z4ArAgVjx2h3EI2kLpvEXWYxLNLPwKUZeiH8kSLjjCGa6gDZiHlguyXcue0MO7fBN4LEBNJ0TQv6R_nyaaiw" alt="OpusLogo" width="150" height="75"></center>
-</a></center>
-
-
-
-    </footer>
     <script src="https://cdn.plyr.io/3.6.9/plyr.js"></script>
   <script>
         const controls = [
